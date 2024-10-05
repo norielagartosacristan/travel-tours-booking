@@ -24,3 +24,4 @@ function tt_booking_activate_plugin() {
     flush_rewrite_rules();
 }
 
+?>
